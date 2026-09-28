@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meridian-electronics.github.io/Meridian-Electronics/sitemap.xml
